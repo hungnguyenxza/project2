@@ -10,5 +10,7 @@ package newpackage;
  * @author Nguyen Xuan Hung
  */
 public class NewClass {
+    private String name;
+    
     
 }
